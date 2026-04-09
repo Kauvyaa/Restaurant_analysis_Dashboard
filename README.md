@@ -53,7 +53,7 @@ This project demonstrates how Python-based data cleaning combined with SQL and P
 
 ##  Screenshots
 
-![Screenshot1](https://github.com/user-attachments/assets/9b14bc35-dfce-4a10-8fed-d4c39993679c)
+![Screenshot1](https://github.com/user-attachments/assets/3db51f04-debe-4ff8-b7d5-6836aa264abd)
 
 ![Screenshot2](https://github.com/user-attachments/assets/5c87dae7-2095-4410-b3c0-8c69d2b2c386)
 
